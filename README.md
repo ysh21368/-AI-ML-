@@ -10,6 +10,6 @@
 - 중복값 제거 및 4개의 테이블 merge로 병합 
 
 ### 모델 선정 및 성능 평가
-Logistic Regression: Accuracy = 0.8633
-Random Forest: Accuracy = 0.8008
-CatBoost: Accuracy = 0.8650
+- Logistic Regression: Accuracy = 0.8633
+- Random Forest: Accuracy = 0.8008
+- CatBoost: Accuracy = 0.8650
