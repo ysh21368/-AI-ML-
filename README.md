@@ -4,6 +4,7 @@
 ### 테이블 구조
 
 <img width="709" alt="image" src="https://github.com/ysh21368/Job-Announcement-Recommendation-AI/assets/118493648/548819b7-ba32-4c95-83b0-76693a79d62f">
+
 ### 전처리 및 join
 
 - 중복값 제거 및 4개의 테이블 merge로 병합 
