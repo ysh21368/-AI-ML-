@@ -1,5 +1,5 @@
 # 프로그래머스 주최 AI Task: 채용 공고 추천
-1. 데이터셋 및 테이블 구조
+## 데이터셋 및 테이블 구조
 ### 데이터셋: 6000개의 학습용 데이터 및 2435개의 테스트용 데이터
 
 <img width="711" alt="image" src="https://github.com/ysh21368/Job-Announcement-Recommendation-AI/assets/118493648/5bca9889-07fa-4cf0-ad4d-620b3ac4bfae">
